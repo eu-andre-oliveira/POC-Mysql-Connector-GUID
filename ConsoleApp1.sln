@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{921584EC-886E-4A18-A5A6-3F7368E99CF5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POC.MysqlConnectorPomelo", "POC.MysqlConnectorPomelo\POC.MysqlConnectorPomelo.csproj", "{0E5BC0AB-D91D-4BA6-84EB-14553ABC5195}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POC.MysqlConnectorEntityFramework", "POC.MysqlConnectorEntityFramework\POC.MysqlConnectorEntityFramework.csproj", "{9ACD73A9-3CBF-4F42-B1CF-087A7F71EFD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{921584EC-886E-4A18-A5A6-3F7368E99CF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{921584EC-886E-4A18-A5A6-3F7368E99CF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{921584EC-886E-4A18-A5A6-3F7368E99CF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{921584EC-886E-4A18-A5A6-3F7368E99CF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E5BC0AB-D91D-4BA6-84EB-14553ABC5195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E5BC0AB-D91D-4BA6-84EB-14553ABC5195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E5BC0AB-D91D-4BA6-84EB-14553ABC5195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E5BC0AB-D91D-4BA6-84EB-14553ABC5195}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ACD73A9-3CBF-4F42-B1CF-087A7F71EFD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ACD73A9-3CBF-4F42-B1CF-087A7F71EFD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ACD73A9-3CBF-4F42-B1CF-087A7F71EFD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ACD73A9-3CBF-4F42-B1CF-087A7F71EFD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE55DB0F-7B25-4B46-ADE8-BD7BBAC77095}
+	EndGlobalSection
+EndGlobal
